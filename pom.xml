@@ -70,7 +70,7 @@
 		        <configuration>
 		            <subscriptionId>485780e5-6508-4186-a673-fbe111e50119</subscriptionId>
 		            <clusterName>ecommerceapp</clusterName>
-		            <appName>ecommerceapp</appName>
+		            <appName>e-commercetest</appName>
 		            <isPublic>true</isPublic>
 		            <deployment>
 		                <cpu>1</cpu>
